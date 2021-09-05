@@ -1,1 +1,1 @@
-# minimalproject_eclipsedynamicweb_maven_jsf_cdi_primefaces_log
+# minimalproject_eclipsedynamicweb_maven_jsf_cdi_primefaces
