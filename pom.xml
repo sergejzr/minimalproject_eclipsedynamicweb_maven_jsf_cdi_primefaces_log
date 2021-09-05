@@ -1,8 +1,8 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	
-		<modelVersion>4.0.0</modelVersion>
+	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.test</groupId>
 	<artifactId>EWMJCPL</artifactId>
 	<packaging>war</packaging>
@@ -79,8 +79,8 @@
 			<artifactId>junit</artifactId>
 			<version>4.13.2</version>
 		</dependency>
-
-		<dependency>
+		
+				<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>jul-to-slf4j</artifactId>
 			<version>1.7.32</version>
@@ -100,7 +100,7 @@
 				<version>3.8.0</version>
 				<configuration>
 					<release>11</release>
-				</configuration>
+					</configuration>
 			</plugin>
 		</plugins>
 	</build>

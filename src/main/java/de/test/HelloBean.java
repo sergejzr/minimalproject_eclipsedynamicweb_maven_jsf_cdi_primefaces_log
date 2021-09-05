@@ -23,7 +23,6 @@ public class HelloBean {
 			PropertyConfigurator.configure(new Properties() {
 				private static final long serialVersionUID = 3522475775881727293L;
 				{
-
 					load(getClass().getClassLoader()
 							.getResourceAsStream("log4j.properties"));
 				}
